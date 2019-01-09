@@ -7,7 +7,7 @@ Team: Montse Balle, Marie De Meulen, Irène Six
 ## Isabelle Brick-Press
 Our first prototype is based on the Isabelle brick press machine from Beteze; a multi-disciplinary group of young people based in Barcelona [Beteze](https://www.beteze.org). Their file, in open-source, is made for a welded metal press.  Our initial test, made of 6 mm MDF and all the parts are glued together, gave us the opportunity to try the machine and to find ways to improve the press. 
 
-![4 temps Presse](six/GroupWebPage_Canevas/images/Presse_a_briques/4tempspresse.jpg)
+![4 temps Presse](GroupWebPage_Canevas/images/Presse_a_briques/4tempspresse.jpg)
 
 Our aim is to make a low-tech brick press that could be assembled, without nails or glue. This means it would be easily transportable, mountable and per definition cheap.
 This machine would useful in the post-flooding period, more exactly for the reconstruction or construction of houses. And the brick presses could also be used in any period in unreachable villages, where it is almost impossible to bring bricks, it would permit to make the bricks, stronger than the ones made in a mould, in situ.
